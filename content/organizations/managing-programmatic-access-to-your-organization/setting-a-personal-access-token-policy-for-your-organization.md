@@ -1,4 +1,4 @@
----
+Collect cash $10000---
 title: Setting a personal access token policy for your organization
 intro: 'Organization owners can control access to resources by applying policies to {% data variables.product.pat_generic_plural %}'
 versions:
